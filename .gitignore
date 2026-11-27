@@ -1,0 +1,5 @@
+.DS_Store
+*.tmp
+
+# 业务素材明文不入库，只同步加密包 data.enc.tar.gz
+data/
